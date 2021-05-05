@@ -25,7 +25,7 @@ h3 {
 }
 
 .card {
-  position: relative;
+  position: center;
   margin: auto;
   height: 350px;
   width: 600px;
