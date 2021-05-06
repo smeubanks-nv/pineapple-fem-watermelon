@@ -1,6 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Asap+Condensed:600i,700');
 
-
+/* 
+Card dimensions
+Import fonts
+Remove card borders
+Define H1 to H6
+Divide in two columns
+Insert image
+Apply color filter
+ */
 
 body {
   background: hsl(233, 47%, 7%);
@@ -82,7 +90,8 @@ h3 {
 .announcement:after {
   right: -3px;
 }
-
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
 
 .inspiration {
   position: absolute;
