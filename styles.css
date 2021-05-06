@@ -63,7 +63,7 @@ h3 {
   text-align: right;
 }
 
-.announcement {
+/* .announcement {
   position: left;
   border: 3px solid currentColor;
   border-top: 0;
@@ -73,9 +73,9 @@ h3 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-}
+} */
 
-.announcement:before,
+/* .announcement:before,
 .announcement:after {
   content: '';
   position: absolute;
@@ -90,14 +90,13 @@ h3 {
 .announcement:after {
   right: -3px;
 }
-.attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
+ */
 
-.inspiration {
+/* .inspiration {
   position: absolute;
   bottom: 20px;
   left: 20px;
-}
+} */
 
 * {
   box-sizing: border-box;
@@ -137,3 +136,4 @@ img {
   height: auto;
   width: 100%;
 }
+
